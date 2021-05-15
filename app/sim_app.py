@@ -8,7 +8,7 @@ from . import interface
 from classes.UIManager import UIManager
 
 
-class MyApp(wx.App):
+class SimApp(wx.App):
     
     # def __init__(self):
     #     #
